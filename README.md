@@ -32,6 +32,22 @@ Save the file as `palindrome_checker.c`
 For Linux / macOS:
 ```bash
 gcc palindrome_checker.c -o palindrome_checker
+```
+
+On Windows (with MinGW installed):
+```bash
+gcc palindrome_checker.c -o palindrome_checker.exe
+```
+3️⃣ Run It
+On Linux/macOS:
+```bash
+./palindrome_checke
+```
+
+On Windows:
+```bash
+palindrome_checker.exe
+```
 
 ---
 
